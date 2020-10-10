@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "py3repl"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+description = "A cli to mimic python REPL implementation"
 authors = ["amalshaji <amalshajid@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.6"
 colorama = "^0.4.3"
 
 [tool.poetry.dev-dependencies]
