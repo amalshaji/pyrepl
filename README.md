@@ -27,7 +27,7 @@ pip install py3repl
 
 ### Demo
 
-![final demo](files/final_demo.gif)
+![final demo](https://raw.githubusercontent.com/amalshaji/pyrepl/master/files/final_demo.gif)
 
 
 ### I haven't tested a lot. So chances of bugs are very high. Please do report or make a pull request. All contributions are welcome.
